@@ -20,7 +20,7 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
     - [The idea](#the-idea)
   - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
-  - [Long description](#long-description)
+  - [Long description(via GitBook)](#long-description)
   - [Project roadmap](#project-roadmap)
   - [Getting started](#getting-started)
   - [Live demo](#live-demo)

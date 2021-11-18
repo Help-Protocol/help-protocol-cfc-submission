@@ -60,7 +60,7 @@ It's imperative that learning and creating can continue when educational institu
 
 ## Long description
 
-[More detail is available here](./docs/DESCRIPTION.md)
+[More detail is available here](https://docs.help.protocol.onchain.engineer/)
 
 ## Project roadmap
 

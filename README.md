@@ -68,7 +68,7 @@ To contribute do consider individual repositories in [Help Protocol](https://git
 
 ## Live demo
 
-You can find a running application to test at [help-protocol.mybluemix.net](http://help-protocol.mybluemix.net/) or an alternate apllication is running at [help-protocol.onchain.engineer](http://help-protocol.onchain.engineer).
+You can find a running application to test at [help-protocol.mybluemix.net](http://help-protocol.mybluemix.net/) or an alternate application is running at [help-protocol.onchain.engineer](http://help-protocol.onchain.engineer).
 
 ![Dashboard](./images/Dashboard.png)
 

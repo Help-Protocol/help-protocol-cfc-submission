@@ -17,6 +17,7 @@
   - [Getting started](#getting-started)
   - [Live demo](#live-demo)
   - [Built with](#built-with)
+  - [Important Help Protocol Repositories](#Important-Help-Protocol-Repositories)
   - [Contributing](#contributing)
   - [Team](#team)
   - [License](#license)
@@ -80,6 +81,12 @@ You can find a running application to test at [help-protocol.mybluemix.net](http
 - [Tendermint Consensus](https://docs.tendermint.com/master/) - Help Protocol Consensus Engine
 - [Terra Blockchain](https://www.terra.money/) - Blockchain Network for Help Protocol
 - [Anchor Protocol](https://anchorprotocol.com/) - A savings protocol offering low-volatile yields on Terra stablecoin deposits
+
+## Important Help Protocol Repositories
+
+- [Help Station](https://github.com/Help-Protocol/help-station) - Repository for Help Protocol dApp
+- [Help Protocol Smart Contracts](https://github.com/Help-Protocol/help-contracts) - Repository for Help Protocol Contracts
+- [Help Protocol Docs](https://github.com/Help-Protocol/help-protocol-documentation) - Repository for Help Protocol documentation
 
 ## Contributing
 

@@ -36,7 +36,7 @@
 
 ## Demo video
 
-[![Watch the video](/images/help-protocol-video.png)](https://www.canva.com/design/DAEvCZQJLEs/PIRqMu5B4jJH_KrKRoVmCA/watch?utm_content=DAEvCZQJLEs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[![Watch the video](./images/help-protocol-video.png)](https://www.canva.com/design/DAEvCZQJLEs/PIRqMu5B4jJH_KrKRoVmCA/watch?utm_content=DAEvCZQJLEs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## The architecture
 
@@ -55,7 +55,7 @@ Features Pending -
 
 
  
-![Roadmap](./images/help-protocol-roadmap.png)
+[![Roadmap](./images/help-protocol-roadmap.png)](https://docs.help.protocol.onchain.engineer/project-roadmap)
 
 ## Getting started
 
